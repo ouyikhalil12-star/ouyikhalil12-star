@@ -1,12 +1,9 @@
 # 👋 Hi, I'm Khalil Ouyi!
 
-🎓 I'm a **Sophomore Computer Science student at Al Akhawayn University**, currently building my skills in programming and computer science.
-
 🎯 **Current Focus:**
 💻 Strengthening my programming fundamentals
 🐍 Learning Python and Java
 🧩 Improving my problem-solving and data structures skills
-🤖 Exploring Artificial Intelligence & Big Data Analytics
 🚀 Building projects to turn what I learn into practical experience
 
 🌱 I'm starting over with a fresh mindset, focusing on consistency, learning from my mistakes, and improving every day.
