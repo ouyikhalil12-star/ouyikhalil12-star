@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Khalil Ouyi!
 
-🎓 I'm a **Sophomore Computer Science student at Al Akhawayn University**, currently building my skills in programming and computer science.
-
 🎯 **Current Focus:**
 💻 Strengthening my programming fundamentals
 🐍 Learning Python and Java
